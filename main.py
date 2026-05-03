@@ -2,7 +2,7 @@ import time
 import requests
 import random
 
-TOKEN = "8762868614:AAG8pKICPaM01e2bN77SHx9cJnzZy-KHABE"
+TOKEN = "8762868614:AAHCmpbrmljDb3TIm2AkZVSeF5nPGJFPK3w"
 CHAT_ID = "1692745498"
 
 def send(msg):
