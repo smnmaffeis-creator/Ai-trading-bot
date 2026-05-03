@@ -2,8 +2,8 @@ import time
 import requests
 import random
 
-TOKEN = "INSERISCI_TOKEN_BOTFATHER"
-CHAT_ID = "INSERISCI_CHAT_ID"
+TOKEN = "8762868614:AAG8pKICPaM01e2bN77SHx9cJnzZy-KHABE"
+CHAT_ID = "1692745498"
 
 def send(msg):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
